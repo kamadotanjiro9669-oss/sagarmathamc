@@ -8,7 +8,7 @@
   "server": {
     "ip": "sagarmathamc.aternos.me",
     "port": 59207,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
